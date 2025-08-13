@@ -4,10 +4,8 @@ This repository contains a machine learning project aimed at predicting patient 
 
 ## 📂 Project Structure
 ```
-├── mortality_prediction.ipynb # Main Jupyter Notebook with code, analysis, and results
-├── data/ # (Optional) Folder for datasets (not included in repo by default)
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+├── mortality_prediction.ipynb 
+├── README.md 
 ```
 ## 🚀 Features
 
